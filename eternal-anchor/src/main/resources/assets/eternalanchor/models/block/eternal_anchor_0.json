@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "eternalanchor:block/eternal_anchor_bottom",
+    "side": "eternalanchor:block/eternal_anchor_side0",
+    "top": "eternalanchor:block/eternal_anchor_top_off"
+  }
+}
